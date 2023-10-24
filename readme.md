@@ -14,7 +14,7 @@ By Qidu(Quentin) Fu
 
 <a name='1.1'></a>
 ### **1.1 Ideation:**
-This project titled “A Game of Flying Birds” (in [112TermProject.py](https://github.com/Qidu-Quentin-Fu/TheBeeGame--112Project/blob/5252a564df17bf8a84933c975c35fdea33152f10/112TermProject.py)) is based on the scaffolded project developed by Michael Taylor 
+This project titled “A Game of Flying Birds” (in [112TermProject.py](112TermProject.py)) is based on the scaffolded project developed by Michael Taylor 
 (Spring 2023 15112 instructor, Mike hereafter), which originates from the bee game, 
 [the Google Doodle for Earth Day 2020.](https://www.google.com/doodles/earth-day-2020)
 
